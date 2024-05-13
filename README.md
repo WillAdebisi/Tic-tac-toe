@@ -1,0 +1,1 @@
+I crafted a project based on a tutorial I followed on https://www.youtube.com/watch?v=fPew9OI2PnA&t=931s. While I put my own spin on things and tweaked some elements from the video, the process taught me the diverse capabilities of JavaScript.
